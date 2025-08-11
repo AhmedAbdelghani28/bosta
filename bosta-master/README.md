@@ -48,7 +48,7 @@ Follow the steps below to set up the project on your local machine:
 1. Ensure that **Docker**, **Docker Compose**, and **Git** are installed on your system.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/mostafaosama113/bosta
+   gh repo clone AhmedAbdelghani28/bosta
    ```
 3. Navigate to the project directory:
    ```bash
